@@ -49,9 +49,10 @@ O sistema simula o monitoramento de uma missão espacial, permitindo acompanhar 
    - `br.com.plataformaespacial.main` → classe principal `SistemaMonitoramento`
 
 4. Execute a classe principal:
-   'SistemaMonitoramento.java'
+   
+   `SistemaMonitoramento.java`
 
-5. Use o menu interativo para navegar pelas opções disponíveis:
+6. Use o menu interativo para navegar pelas opções disponíveis:
 - **1** → Verificar sensores  
 - **2** → Controlar propulsão  
 - **3** → Dados da missão  
@@ -61,4 +62,5 @@ O sistema simula o monitoramento de uma missão espacial, permitindo acompanhar 
 
 ## 🔑 Senha de acesso
 Para visualizar as coordenadas da missão, utilize a senha:
-  'space123'
+
+`space123`
