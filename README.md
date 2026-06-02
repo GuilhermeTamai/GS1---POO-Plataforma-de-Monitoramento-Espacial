@@ -107,6 +107,11 @@ O menu apresenta todas as opções disponíveis para interação com o sistema:
 #### 5️⃣ Exibir Status Completo
 ![Escolha 5](img/escolha5.png)
 
+#### 0️⃣ Encerrar Sistema
+![Escolha 0](img/escolha0.png)
+
+Ao selecionar a opção **0**, o sistema é finalizado de forma segura, exibindo a mensagem de encerramento e retornando ao terminal.
+
 ---
 
 ### 💡 Observação
