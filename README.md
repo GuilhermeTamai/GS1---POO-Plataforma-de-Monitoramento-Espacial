@@ -64,3 +64,48 @@ O sistema simula o monitoramento de uma missão espacial, permitindo acompanhar 
 Para visualizar as coordenadas da missão, utilize a senha:
 
 `space123`
+
+---
+
+## 🖥️ Interface do Sistema
+
+A interface do sistema foi desenvolvida para ser **simples, intuitiva e totalmente interativa via terminal**, permitindo ao usuário navegar entre as opções e visualizar os resultados em tempo real.
+
+### 🧩 Menu Principal
+![Menu Principal](imagens/menuPOO.png)
+
+O menu apresenta todas as opções disponíveis para interação com o sistema:
+- **1** → Verificar sensores  
+- **2** → Controlar propulsão  
+- **3** → Dados da missão  
+- **4** → Simular alerta combustível  
+- **5** → Exibir status completo  
+- **0** → Encerrar sistema  
+
+---
+
+### 📊 Demonstração das Funcionalidades
+
+#### 1️⃣ Verificar Sensores
+![Escolha 1](imagens/escolha1.png)
+
+#### 2️⃣ Controlar Propulsão
+![Escolha 2](imagens/escolha2.png)
+
+##### ⚠️ Tentativa incorreta
+![Erro Propulsão](imagens/escolha2incorreta.png)
+
+#### 3️⃣ Dados da Missão
+![Escolha 3](imagens/escolha3.png)
+
+##### 🔒 Senha incorreta
+![Erro Senha](imagens/escolha3senhaincorreta.png)
+
+#### 4️⃣ Simular Alerta de Combustível
+![Escolha 4](imagens/escolha4.png)
+
+#### 5️⃣ Exibir Status Completo
+![Escolha 5](imagens/escolha5.png)
+
+### 💡 Observação
+Os prints acima demonstram o funcionamento real do sistema, incluindo **validações de entrada** e **tratamento de erros**, garantindo uma experiência completa e segura para o usuário.
