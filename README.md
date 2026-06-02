@@ -87,25 +87,25 @@ O menu apresenta todas as opções disponíveis para interação com o sistema:
 ### 📊 Demonstração das Funcionalidades
 
 #### 1️⃣ Verificar Sensores
-![Escolha 1](imagens/escolha1.png)
+![Escolha 1](img/escolha1.png)
 
 #### 2️⃣ Controlar Propulsão
-![Escolha 2](imagens/escolha2.png)
+![Escolha 2](img/escolha2.png)
 
 ##### ⚠️ Tentativa incorreta
-![Erro Propulsão](imagens/escolha2incorreta.png)
+![Erro Propulsão](img/escolha2incorreta.png)
 
 #### 3️⃣ Dados da Missão
-![Escolha 3](imagens/escolha3.png)
+![Escolha 3](img/escolha3.png)
 
 ##### 🔒 Senha incorreta
-![Erro Senha](imagens/escolha3senhaincorreta.png)
+![Erro Senha](img/escolha3senhaincorreta.png)
 
 #### 4️⃣ Simular Alerta de Combustível
-![Escolha 4](imagens/escolha4.png)
+![Escolha 4](img/escolha4.png)
 
 #### 5️⃣ Exibir Status Completo
-![Escolha 5](imagens/escolha5.png)
+![Escolha 5](img/escolha5.png)
 
 ### 💡 Observação
 Os prints acima demonstram o funcionamento real do sistema, incluindo **validações de entrada** e **tratamento de erros**, garantindo uma experiência completa e segura para o usuário.
