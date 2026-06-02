@@ -72,7 +72,7 @@ Para visualizar as coordenadas da missão, utilize a senha:
 A interface do sistema foi desenvolvida para ser **simples, intuitiva e totalmente interativa via terminal**, permitindo ao usuário navegar entre as opções e visualizar os resultados em tempo real.
 
 ### 🧩 Menu Principal
-![Menu Principal](imagens/menuPOO.png)
+![Menu Principal](img/menuPOO.png)
 
 O menu apresenta todas as opções disponíveis para interação com o sistema:
 - **1** → Verificar sensores  
@@ -106,6 +106,8 @@ O menu apresenta todas as opções disponíveis para interação com o sistema:
 
 #### 5️⃣ Exibir Status Completo
 ![Escolha 5](img/escolha5.png)
+
+---
 
 ### 💡 Observação
 Os prints acima demonstram o funcionamento real do sistema, incluindo **validações de entrada** e **tratamento de erros**, garantindo uma experiência completa e segura para o usuário.
